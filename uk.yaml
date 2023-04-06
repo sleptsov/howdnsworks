@@ -1,31 +1,31 @@
   # Author
   translation:
-    source: "Name and link to social media"
+    source: "Переклад: Денис Слєпцов [Linkedin](https://www.linkedin.com/in/sleptsovdenis/) | [GitHub](https://github.com/sleptsov)"
 
   # Navigation
   nav:
-    episodes: "Episodes"
-    episode: "Episode"
-    about: "About"
-    video: "Video"
-    ep1: "The website is unknown"
-    ep2: "Road trip"
-    ep3: "Top of the hierarchy"
+    episodes: "Розділи"
+    episode: "Розділ"
+    about: "Про нас"
+    video: "Відео"
+    ep1: "Вебсайт невідомий"
+    ep2: "Подорож"
+    ep3: "Вершина ієрархії"
     ep4: ".HOT .PIZZA .COM"
-    ep5: "Respect my authority!"
-    ep6: "It's getting late"
-    ep7: "Bonus: Glue records"
-    social: "Be a social cat"
-    more_comics: "Read more comics"
-    next_ep: "Next Episode"
+    ep5: "Поважайте мій авторитет!"
+    ep6: "Вже пізно"
+    ep7: "Бонус: Glue records"
+    social: "Стати соціальним котиком"
+    more_comics: "Читати ще"
+    next_ep: "Наступний розділ"
 
   # Home page
   home:
-    title: "How DNS Works"
-    p1: "A fun and colorful explanation of how DNS works."
-    p2: "Hey there! We made this comic to explain what happens when you type a website address in your browser."
-    p3: "Enjoy! No jetpacks required."
-    cta: "Start reading now"
+    title: "Як працює DNS"
+    p1: "Веселе та яскраве пояснення того, як працює DNS."
+    p2: "Привітулі! Ми створили цей комікс, щоб пояснити, що відбувається, коли ви вводите адресу сайту у своєму браузері."
+    p3: "Насолоджуйтесь! Реактивні ранці не потрібні."
+    cta: "Розпочати подорож"
 
   # Episodes
   ep1:
